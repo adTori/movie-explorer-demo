@@ -49,7 +49,7 @@ describe("getFavoriteMovies", ()=>{
 
   test("should return two favorite movies", ()=>{
 
-    expect(result).toHaveLength(5)
+    expect(result).toHaveLength(2)
 
   })
 
